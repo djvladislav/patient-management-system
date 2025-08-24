@@ -1,1 +1,1 @@
-# patient-management-system
+A Diabetes Tracking System with integrated patient-doctor management. Built using Python and PostgreSQL, featuring blood sugar monitoring, automatic insulin dose suggestions, diet/exercise planning, and secure authentication with BCrypt.
